@@ -1,0 +1,5 @@
+* text=auto	
+*.js linguist-language=Html
+*.css linguist-vendored
+*.blade.php -linguist-detectable
+CHANGELOG.md export-ignore
